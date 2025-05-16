@@ -1,1 +1,1 @@
-{"UpdateNumb":"0.5b","UpdateHeader":"The Release!","UpdateDesc":"Welcome Pluto! Plutonians, this is currently a beta test, please report bugs on the offical github issues page."}
+{"UpdateNumb":"0.5b","UpdateHeader":"The Release!","UpdateDesc":"Hey Plutonians! You're currently in the Pluto beta test. This means you might encounter some bugs as we're still polishing things up. If you spot any issues, please report them on our official GitHub Issues page: https://github.com/yamtec/PlutoV2/issues Your feedback is invaluable. Happy exploring!"}
